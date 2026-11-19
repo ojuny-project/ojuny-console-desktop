@@ -1,7 +1,8 @@
 # DRAFT - ojuny-console-desktop
 
-Status: draft scope. Nothing is built. This file describes what the repository
-is supposed to contain, not what it contains today.
+Status: implemented, not hardware-tested. See README.md and docs/ for the
+current state. The scope below is the original draft and is kept as the design
+target.
 
 ## Purpose
 

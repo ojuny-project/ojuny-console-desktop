@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Ojuny Console Settings
+Comment=Controller-first settings for Ojuny Console
+Exec=ojuny-console-settings
+Type=Application
+Terminal=false
+Categories=Settings;System;
